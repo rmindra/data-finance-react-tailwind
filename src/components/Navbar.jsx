@@ -22,22 +22,22 @@ const Navbar = () => {
           </a>
         </li>
         <li className="p-4">
-          <a className="hover:text-[#00df9a]" href="#">
+          <a className="hover:text-[#00df9a]" href="#footer">
             Company
           </a>
         </li>
         <li className="p-4">
-          <a className="hover:text-[#00df9a]" href="#">
+          <a className="hover:text-[#00df9a]" href="#cards">
             Resources
           </a>
         </li>
         <li className="p-4">
-          <a className="hover:text-[#00df9a]" href="#">
+          <a className="hover:text-[#00df9a]" href="#analytics">
             About
           </a>
         </li>
         <li className="p-4">
-          <a className="hover:text-[#00df9a]" href="#">
+          <a className="hover:text-[#00df9a]" href="#newsletter">
             Contact
           </a>
         </li>

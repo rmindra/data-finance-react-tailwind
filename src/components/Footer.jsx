@@ -9,7 +9,7 @@ import {
 
 const Footer = () => {
   return (
-    <div className="max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300">
+    <div id="footer" className="max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300">
       <div className="flex flex-col justify-center">
         <h1 className="w-full text-3xl text-[#00df9a] font-semibold">REACT.</h1>
         <p className="py-4">
